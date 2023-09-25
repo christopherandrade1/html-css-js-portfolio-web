@@ -1,6 +1,6 @@
 [[redirects]]
-from = "/*"
-to = "/index.html"
+from = "./asset/linkedin.png"
+to = "https:linkedin.com/in/christopher-christopher-andrade1"
 status = 200
 
 
